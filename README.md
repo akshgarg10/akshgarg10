@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning DSA in Java
 
 <!--
 **akshgarg10/akshgarg10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
