@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning DSA in Java and Java Development on Oracle Cloud
+🔭 I’m currently working on developing DSA knowledge and concepts
+🌱 I’m currently learning Java Development on Oracle Cloud
 
 <!--
 **akshgarg10/akshgarg10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
