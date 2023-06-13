@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on developing DSA knowledge and concepts
+🔭 I’m currently working on developing DSA knowledge and concepts <br>
 🌱 I’m currently learning Java Development on Oracle Cloud
 
 <!--
