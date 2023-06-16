@@ -7,7 +7,6 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=akshgarg10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshgarg10&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshgarg10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshgarg10&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
