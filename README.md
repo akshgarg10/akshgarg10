@@ -1,5 +1,7 @@
-
-![image](https://github.com/akshgarg10/akshgarg10/assets/104502015/d493662e-9a8f-4b59-97d1-70b9b1f6f20f)
+<center>
+  
+  ![image](https://github.com/akshgarg10/akshgarg10/assets/104502015/d493662e-9a8f-4b59-97d1-70b9b1f6f20f)
+</center>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aksh-garg-392741237) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/AkshGarg24) 
