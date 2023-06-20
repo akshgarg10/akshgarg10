@@ -11,7 +11,7 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--![](https://github-profile-trophy.vercel.app/?username=akshgarg10&theme=onedark&no-frame=true&no-bg=true&margin-w=4)-->
-!(https://github-contributor-stats.vercel.app/api?username=HwangTaehyun)
+!(https://github-contributor-stats.vercel.app/api?username=akshgarg10)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akshgarg10&limit=5&theme=dark&combine_all_yearly_contributions=true)
