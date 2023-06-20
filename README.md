@@ -9,7 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshgarg10&theme=midnight-purple&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshgarg10&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<!--![](https://github-profile-trophy.vercel.app/?username=akshgarg10&theme=onedark&no-frame=true&no-bg=true&margin-w=4)-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akshgarg10&limit=5&theme=dark&combine_all_yearly_contributions=true)
