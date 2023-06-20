@@ -1,4 +1,4 @@
-<img class="center">![image](https://github.com/akshgarg10/akshgarg10/assets/104502015/d493662e-9a8f-4b59-97d1-70b9b1f6f20f)</img>
+<img align="center">![image](https://github.com/akshgarg10/akshgarg10/assets/104502015/d493662e-9a8f-4b59-97d1-70b9b1f6f20f)</img>
 
 
 ## 🌐 Socials
