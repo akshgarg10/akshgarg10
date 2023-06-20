@@ -1,7 +1,7 @@
  ![image](https://github.com/akshgarg10/akshgarg10/assets/104502015/d493662e-9a8f-4b59-97d1-70b9b1f6f20f)
 
  ## About me
- - Currently focusing on improving my DSA skills
+ - :watermelon: Currently focusing on improving my DSA skills
  -  I really love the thrill of making what I want possible!
  
 ## 🌐 Socials
