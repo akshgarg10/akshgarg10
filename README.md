@@ -1,8 +1,7 @@
  ![image](https://github.com/akshgarg10/akshgarg10/assets/104502015/d493662e-9a8f-4b59-97d1-70b9b1f6f20f)
 
  ## About me
- - :boy: 4th year student at VIT Bhopal
- - :watermelon: Currently focusing on improving my DSA skills
+ - :boy: Started my master's at University of Queensland
  -  :hourglass: I really love the thrill of making what I want possible!
  
 ## 🌐 Socials
